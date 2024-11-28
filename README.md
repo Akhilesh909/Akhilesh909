@@ -2,4 +2,4 @@
 - 👀 I’m interested in mainly developing applications
 - 🌱 I’m currently learning HTML, CSS and JS and my internship in Java 
 - 📫 You can reach me through 
-- Email:akhilesh909@macr2.com
+- Email: akhilesh19990529@gmail.com
